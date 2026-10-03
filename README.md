@@ -1,4 +1,9 @@
-## Hi there 👋
+## # Привет
+
+Дмитрий. Студент. 
+Выкладываю сюда лабы по учебе.
+
+* Язык: C++
 
 <!--
 **THEDARFz/THEDARFz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
